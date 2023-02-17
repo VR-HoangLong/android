@@ -92,6 +92,9 @@
   </project>
   <project path="vendor/qcom/opensource/rcs-service" name="LineageOS/android_vendor_qcom_opensource_rcs-service" />
 
+  <!-- Samsung -->
+  <project path="hardware/samsung" name="android_hardware_samsung" remote="hl" />
+
   <!-- Infrastructure -->
   <project path="lineage/ansible" name="LineageOS/ansible" groups="infra" revision="master" />
   <project path="lineage/charter" name="LineageOS/charter" groups="infra" revision="master" />
